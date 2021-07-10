@@ -1,4 +1,2 @@
-# LinqLike api example repository
-
-document of this example here: [link]();
-
+# fluent-api-example
+example for fluent api 

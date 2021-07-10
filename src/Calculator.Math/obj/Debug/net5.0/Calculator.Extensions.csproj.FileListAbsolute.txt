@@ -1,5 +1,0 @@
-/workspaces/LinqLike-api-example/src/Calculator.Extensions/obj/Debug/net5.0/Calculator.Extensions.csprojAssemblyReference.cache
-/workspaces/LinqLike-api-example/src/Calculator.Extensions/obj/Debug/net5.0/Calculator.Extensions.GeneratedMSBuildEditorConfig.editorconfig
-/workspaces/LinqLike-api-example/src/Calculator.Extensions/obj/Debug/net5.0/Calculator.Extensions.AssemblyInfoInputs.cache
-/workspaces/LinqLike-api-example/src/Calculator.Extensions/obj/Debug/net5.0/Calculator.Extensions.AssemblyInfo.cs
-/workspaces/LinqLike-api-example/src/Calculator.Extensions/obj/Debug/net5.0/Calculator.Extensions.csproj.CoreCompileInputs.cache
