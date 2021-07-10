@@ -1,0 +1,12 @@
+/workspaces/fluent-api-example/src/Calculator.RxLike/bin/Debug/net5.0/Calculator.RxLike.deps.json
+/workspaces/fluent-api-example/src/Calculator.RxLike/bin/Debug/net5.0/Calculator.RxLike.dll
+/workspaces/fluent-api-example/src/Calculator.RxLike/bin/Debug/net5.0/ref/Calculator.RxLike.dll
+/workspaces/fluent-api-example/src/Calculator.RxLike/bin/Debug/net5.0/Calculator.RxLike.pdb
+/workspaces/fluent-api-example/src/Calculator.RxLike/obj/Debug/net5.0/Calculator.RxLike.csprojAssemblyReference.cache
+/workspaces/fluent-api-example/src/Calculator.RxLike/obj/Debug/net5.0/Calculator.RxLike.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/fluent-api-example/src/Calculator.RxLike/obj/Debug/net5.0/Calculator.RxLike.AssemblyInfoInputs.cache
+/workspaces/fluent-api-example/src/Calculator.RxLike/obj/Debug/net5.0/Calculator.RxLike.AssemblyInfo.cs
+/workspaces/fluent-api-example/src/Calculator.RxLike/obj/Debug/net5.0/Calculator.RxLike.csproj.CoreCompileInputs.cache
+/workspaces/fluent-api-example/src/Calculator.RxLike/obj/Debug/net5.0/Calculator.RxLike.dll
+/workspaces/fluent-api-example/src/Calculator.RxLike/obj/Debug/net5.0/ref/Calculator.RxLike.dll
+/workspaces/fluent-api-example/src/Calculator.RxLike/obj/Debug/net5.0/Calculator.RxLike.pdb

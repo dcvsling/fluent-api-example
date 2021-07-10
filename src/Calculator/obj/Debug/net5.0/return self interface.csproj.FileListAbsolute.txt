@@ -1,0 +1,12 @@
+/workspaces/LinqLike-api-example/src/return self interface/bin/Debug/net5.0/return self interface.deps.json
+/workspaces/LinqLike-api-example/src/return self interface/bin/Debug/net5.0/return self interface.dll
+/workspaces/LinqLike-api-example/src/return self interface/bin/Debug/net5.0/ref/return self interface.dll
+/workspaces/LinqLike-api-example/src/return self interface/bin/Debug/net5.0/return self interface.pdb
+/workspaces/LinqLike-api-example/src/return self interface/obj/Debug/net5.0/return self interface.csprojAssemblyReference.cache
+/workspaces/LinqLike-api-example/src/return self interface/obj/Debug/net5.0/return self interface.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/LinqLike-api-example/src/return self interface/obj/Debug/net5.0/return self interface.AssemblyInfoInputs.cache
+/workspaces/LinqLike-api-example/src/return self interface/obj/Debug/net5.0/return self interface.AssemblyInfo.cs
+/workspaces/LinqLike-api-example/src/return self interface/obj/Debug/net5.0/return self interface.csproj.CoreCompileInputs.cache
+/workspaces/LinqLike-api-example/src/return self interface/obj/Debug/net5.0/return self interface.dll
+/workspaces/LinqLike-api-example/src/return self interface/obj/Debug/net5.0/ref/return self interface.dll
+/workspaces/LinqLike-api-example/src/return self interface/obj/Debug/net5.0/return self interface.pdb

@@ -1,0 +1,12 @@
+/workspaces/fluent-api-example/src/Calculator.Context/obj/Debug/net5.0/Calculator.Context.csprojAssemblyReference.cache
+/workspaces/fluent-api-example/src/Calculator.Context/obj/Debug/net5.0/Calculator.Context.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/fluent-api-example/src/Calculator.Context/obj/Debug/net5.0/Calculator.Context.AssemblyInfoInputs.cache
+/workspaces/fluent-api-example/src/Calculator.Context/obj/Debug/net5.0/Calculator.Context.AssemblyInfo.cs
+/workspaces/fluent-api-example/src/Calculator.Context/obj/Debug/net5.0/Calculator.Context.csproj.CoreCompileInputs.cache
+/workspaces/fluent-api-example/src/Calculator.Context/bin/Debug/net5.0/Calculator.Context.deps.json
+/workspaces/fluent-api-example/src/Calculator.Context/bin/Debug/net5.0/Calculator.Context.dll
+/workspaces/fluent-api-example/src/Calculator.Context/bin/Debug/net5.0/ref/Calculator.Context.dll
+/workspaces/fluent-api-example/src/Calculator.Context/bin/Debug/net5.0/Calculator.Context.pdb
+/workspaces/fluent-api-example/src/Calculator.Context/obj/Debug/net5.0/Calculator.Context.dll
+/workspaces/fluent-api-example/src/Calculator.Context/obj/Debug/net5.0/ref/Calculator.Context.dll
+/workspaces/fluent-api-example/src/Calculator.Context/obj/Debug/net5.0/Calculator.Context.pdb
