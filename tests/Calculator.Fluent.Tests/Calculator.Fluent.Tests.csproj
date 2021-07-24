@@ -19,6 +19,8 @@
     </PackageReference>
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\..\src\Calculator\Calculator.csproj" />
+    <ProjectReference Include="..\..\src\Calculator.OneClassPerOperator\Calculator.OneClassPerOperator.csproj" />
     <ProjectReference Include="..\..\src\Calculator.RxLike\Calculator.RxLike.csproj" />
     <ProjectReference Include="..\..\src\Calculator.LinqLike\Calculator.LinqLike.csproj" />
     <ProjectReference Include="..\..\src\Calculator.Context\Calculator.Context.csproj" />
