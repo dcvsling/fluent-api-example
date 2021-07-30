@@ -6,22 +6,22 @@ namespace Calculator.LinqLike
         public static ILinqLikeCalculator<R> Compute<T, R>(this ILinqLikeCalculator<T> calculator, Func<T, R> func)
             where T : struct, IConvertible
             where R : struct, IConvertible
-            => new ComputeLinqLikeCalculator<T, R>(calculator.GetCalculator(), func);
+            => new ComputeLinqLikeCalculator<T, R>(calculator, func);
     }
 
     internal class ComputeLinqLikeCalculator<T, R> : ILinqLikeCalculator<R>
         where T : struct, IConvertible
         where R : struct, IConvertible
     {
-        private readonly ICalculator<T> _last;
+        private readonly ILinqLikeCalculator<T> _last;
         private readonly Func<T, R> _func;
-        public ComputeLinqLikeCalculator(ICalculator<T> last, Func<T, R> func)
+        public ComputeLinqLikeCalculator(ILinqLikeCalculator<T> last, Func<T, R> func)
         {
             _last = last;
             _func = func;
         }
         public ICalculator<R> GetCalculator()
-            => new ComputeCalculator<T, R>(_last, _func);
+            => new ComputeCalculator<T, R>(_last.GetCalculator(), _func);
     }
     
     internal class ComputeCalculator<T, R> : ICalculator<R> 
