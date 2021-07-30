@@ -2,7 +2,7 @@ using System;
 
 namespace Calculator.LinqLike
 {
-    public static partial class LinqLikeCalculator {
+    public static partial class Calculator {
         public static ILinqLikeCalculator<R> Compute<T, R>(this ILinqLikeCalculator<T> calculator, Func<T, R> func)
             where T : struct, IConvertible
             where R : struct, IConvertible
@@ -36,7 +36,9 @@ namespace Calculator.LinqLike
             _func = func;
         }
 
-        public R Result => _func(_last.Result);
+        public R Current => _func(_last.Current);
+
+        public bool Next()
+            => _last.Next();
     }
-    
 }
